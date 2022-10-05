@@ -22,7 +22,7 @@ const FooterNav = ({
           <a href='href="mailto:hello@crowdedmind.xyz'>Contact</a>
         </li>
         <li>
-          <Link to="#0">About us</Link>
+          <Link to="#">About us</Link>
         </li>
         <li>
           <Link to="#0">FAQ's</Link>
