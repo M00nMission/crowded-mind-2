@@ -78,7 +78,7 @@ const FeaturesSplit = ({
                 All organic. No Paid Traffic. We deliver your ideal client who is LOOKING TO BUY.
                   </p>
                   <br/>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="primary" wideMobile href="https://calendly.com/crowdedmind/30min?month=2022-10">
                     Book a Demo
                     </Button>
               </div>
@@ -110,7 +110,7 @@ const FeaturesSplit = ({
                 No more gambling with FB ads. No more A/B testing, hiring a copywriter, learning SEO, losing money to freelancers. We make traffic EASY, so you can focus on delivery.
                   </p>
                   <br/>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="primary" wideMobile href="https://calendly.com/crowdedmind/30min?month=2022-10">
                     Book a Demo
                     </Button>
               </div>

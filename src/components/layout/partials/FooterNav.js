@@ -7,6 +7,10 @@ const FooterNav = ({
   ...props
 }) => {
 
+const alertWindow = () => {
+  window.alert('Coming soon!')
+}
+
   const classes = classNames(
     'footer-nav',
     className
@@ -22,13 +26,13 @@ const FooterNav = ({
           <a href='mailto:hello@crowdedmind.xyz'>Contact</a>
         </li>
         <li>
-          <Link to="#">About us</Link>
+          <Link to="#" onClick={alertWindow}>About us</Link>
         </li>
         <li>
-          <Link to="#">FAQ's</Link>
+          <Link to="#" onClick={alertWindow}>FAQ's</Link>
         </li>
         <li>
-          <Link to="#">Support</Link>
+          <Link to="#" onClick={alertWindow}>Support</Link>
         </li>
       </ul>
     </nav>
