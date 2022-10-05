@@ -19,7 +19,7 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <a href='href="mailto:hello@crowdedmind.xyz'>Contact</a>
+          <a href='mailto:hello@crowdedmind.xyz'>Contact</a>
         </li>
         <li>
           <Link to="#">About us</Link>
