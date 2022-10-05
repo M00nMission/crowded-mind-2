@@ -69,10 +69,10 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://calendly.com/crowdedmind/30min?month=2022-10">
+                  <Button tag="a" color="primary" wideMobile href="https://calendly.com/justin-crowded-mind/30min?month=2022-10">
                     AI ?  
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://calendly.com/crowdedmind/30min?month=2022-10">
+                  <Button tag="a" color="dark" wideMobile href="https://calendly.com/justin-crowded-mind/30min?month=2022-10">
                     Book a Demo
                     </Button>
                 </ButtonGroup>

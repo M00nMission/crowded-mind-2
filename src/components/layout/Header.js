@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <a href='https://calendly.com/crowdedmind/30min?month=2022-10' className="button button-primary button-wide-mobile button-sm">Book a Demo</a>
+                        <a href='https://calendly.com/justin-crowded-mind/30min?month=2022-10' className="button button-primary button-wide-mobile button-sm">Book a Demo</a>
                       </li>
                     </ul>}
                 </div>
