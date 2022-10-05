@@ -65,22 +65,29 @@ const FeaturesSplit = ({
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={splitClasses}>
 
+
+           
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Reduced CPA
+                  Warm
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Cheaper than Paid Traffic
+                  Warm Leads
                   </h3>
                 <p className="m-0">
-                We position you in the path of those LOOKING for your Product/Service.
-                All organic. No Paid Traffic. We deliver your ideal client who is LOOKING TO BUY.
+                  Our State of the Art Traffic AI knows EXACTLY what Google is looking for and helps place your website in the path of ORGANIC, WARM LEADS.
                   </p>
+                  <br/>
+                  <p>If one of our sites falls below 300 views per month, we replace it free of charge, leading to consistent, organic traffic.</p>
                   <br/>
                   <Button tag="a" color="primary" wideMobile href="https://calendly.com/crowdedmind/30min?month=2022-10">
                     Book a Demo
                     </Button>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
               </div>
               <div className={
                 classNames(
@@ -89,14 +96,12 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/cheaper-than-paid-traffic.jpeg')}
-                  alt="Features split 01"
+                  src={require('./../../assets/images/shopify-analytics.jpeg')}
+                  alt="Features split 03"
                   width={528}
                   height={396} />
               </div>
-              
             </div>
-           
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
@@ -107,12 +112,18 @@ const FeaturesSplit = ({
                   Completely Organic Traffic
                   </h3>
                 <p className="m-0">
-                No more gambling with FB ads. No more A/B testing, hiring a copywriter, learning SEO, losing money to freelancers. We make traffic EASY, so you can focus on delivery.
+                No more gambling with FB ads. No more A/B testing, hiring a copywriter, learning SEO, losing money to freelancers.</p>
+                <br/>
+                <p> We make traffic EASY, so you can focus on delivery.
                   </p>
                   <br/>
                   <Button tag="a" color="primary" wideMobile href="https://calendly.com/crowdedmind/30min?month=2022-10">
                     Book a Demo
                     </Button>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
               </div>
               <div className={
                 classNames(
@@ -128,17 +139,28 @@ const FeaturesSplit = ({
               </div>
             </div>
 
-            {/* <div className="split-item">
+            <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Cheaper
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Cheaper than Paid Traffic
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                We position you in the path of those LOOKING for your Product/Service.</p>
+                <br/>
+                <p>
+                All organic. No Paid Traffic. We deliver your ideal client who is LOOKING TO BUY.
                   </p>
+                  <br/>
+                  <Button tag="a" color="primary" wideMobile href="https://calendly.com/crowdedmind/30min?month=2022-10">
+                    Book a Demo
+                    </Button>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
               </div>
               <div className={
                 classNames(
@@ -147,12 +169,14 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
-                  alt="Features split 03"
+                  src={require('./../../assets/images/cheaper-than-paid-traffic.jpeg')}
+                  alt="Features split 01"
                   width={528}
                   height={396} />
-              </div>
-            </div> */}
+              </div>     
+            </div>
+
+
 
           </div>
         </div>
