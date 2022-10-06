@@ -23,17 +23,20 @@ const alertWindow = () => {
     >
       <ul className="list-reset">
         <li>
-          <a href='mailto:hello@crowdedmind.xyz'>Contact</a>
+          <a href='mailto:hello@crowdedmind.xyz' target="_blank" >Contact</a>
         </li>
         <li>
+          <a href='https://drive.google.com/file/d/1vPjO0PWRRt9DTdqftbwjs3Oer52la3bf/view?usp=sharing' target="_blank" >About us</a>
+        </li>
+        {/* <li>
           <Link to="#" onClick={alertWindow}>About us</Link>
-        </li>
-        <li>
+        </li> */}
+        {/* <li>
           <Link to="#" onClick={alertWindow}>FAQ's</Link>
         </li>
         <li>
           <Link to="#" onClick={alertWindow}>Support</Link>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );
